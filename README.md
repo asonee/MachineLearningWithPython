@@ -27,7 +27,7 @@ Machine learning algorithms implemented by Python
 
 ### Unsupervised Learning algorithms:
 
-* todo
+* K-means - KMeans.py
 
 ### Feature Selection/ Extraction:
 * PCA - PCA.py
